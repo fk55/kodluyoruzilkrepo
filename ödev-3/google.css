@@ -1,0 +1,29 @@
+.center {
+    display: block;
+    text-align: -webkit-center;
+    width: 1804px;
+    height: 95px;
+    margin: 0 auto;
+}
+.ust{
+    
+    background-color: #EEEEEE;
+    text-align: center;
+      
+}
+.alt
+{
+   
+    
+    background-color: rgb(126, 229, 218);
+    float: left;
+    width: 600px;
+    height: 95px;
+    margin: 5px 0px;
+    padding-top: 10px;
+        
+}
+
+.ml{
+    margin-left: 2px;
+}
